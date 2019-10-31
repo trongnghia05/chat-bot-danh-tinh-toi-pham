@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</pattern>
+   <template>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</template>
+</category>
+
+<category>
+   <pattern>TOI VU KHONG HANH VI PHAT TU</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI VU KHONG HANH VI PHAT TU *</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI VU KHONG HANH VI PHAT TU</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI VU KHONG HANH VI PHAT TU *</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI VU KHONG * HANH VI * PHAT TU</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI VU KHONG * HANH VI * PHAT TU *</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI VU KHONG * HANH VI * PHAT TU</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI VU KHONG * HANH VI * PHAT TU *</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI VU KHONG * HANH VI PHAT TU</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI VU KHONG * HANH VI PHAT TU *</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI VU KHONG * HANH VI PHAT TU</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI VU KHONG * HANH VI PHAT TU *</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI VU KHONG HANH VI * PHAT TU</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI VU KHONG HANH VI * PHAT TU *</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TOI VU KHONG HANH VI * PHAT TU</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TOI VU KHONG HANH VI * PHAT TU *</pattern>
+   <template>
+      <srai>TOI VU KHONG CO HANH VI GI THI BI PHAT TU</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</pattern>
+   <template>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM DANH DU PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM DANH DU PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM DANH DU PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM DANH DU PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM * DANH DU * PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM * DANH DU * PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM * DANH DU * PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM * DANH DU * PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM DANH DU PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM DANH DU PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM DANH DU * PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM DANH DU * PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM * PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM * PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM * PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM * PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * PHAT TIEN</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * PHAT TIEN *</pattern>
+   <template>
+      <srai>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</pattern>
+   <template>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG GAY O NHIEM TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG GAY O NHIEM TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG GAY O NHIEM TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG GAY O NHIEM TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG GAY O NHIEM BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG GAY O NHIEM BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG GAY O NHIEM BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG GAY O NHIEM BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG GAY O NHIEM BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG * GAY O NHIEM BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG GAY O NHIEM * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG GAY O NHIEM * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG GAY O NHIEM * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG GAY O NHIEM * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG * GAY O NHIEM * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG * GAY O NHIEM * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG * GAY O NHIEM * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG * GAY O NHIEM * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG * GAY O NHIEM BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG * GAY O NHIEM BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG * GAY O NHIEM BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG * GAY O NHIEM BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG * TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG * TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG * TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG * TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG * TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG * TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG * TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG * TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON * THAI PHAN RA MOI TRUONG TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON * THAI PHAN RA MOI TRUONG TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG * TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG * TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG * TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG * TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG * TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG * TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NUOI LON THAI PHAN RA MOI TRUONG * TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NUOI LON THAI PHAN RA MOI TRUONG * TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG GAY O NHIEM TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG GAY O NHIEM TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG GAY O NHIEM TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG GAY O NHIEM TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG * GAY O NHIEM * TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG * GAY O NHIEM TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG * GAY O NHIEM TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG * GAY O NHIEM TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG * GAY O NHIEM TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG GAY O NHIEM * TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG GAY O NHIEM * TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG GAY O NHIEM * TO CAO * BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG GAY O NHIEM * TO CAO * BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG GAY O NHIEM * TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG GAY O NHIEM * TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAI PHAN RA MOI TRUONG GAY O NHIEM * TO CAO BI XU LI</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAI PHAN RA MOI TRUONG GAY O NHIEM * TO CAO BI XU LI *</pattern>
+   <template>
+      <srai>ONG A CHAM NUOI LON VA THAI PHAN RA MOI TRUONG GAY O NHIEM DEN NHA TOI TOI TO CAO THI ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

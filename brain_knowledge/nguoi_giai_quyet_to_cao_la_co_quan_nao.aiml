@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>NGUOI GIAI QUYET TO CAO LA CO QUAN NAO</pattern>
+   <template>NGUOI GIAI QUYET TO CAO LA CO QUAN NAO</template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO CAO CO QUAN</pattern>
+   <template>
+      <srai>NGUOI GIAI QUYET TO CAO LA CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO CAO CO QUAN *</pattern>
+   <template>
+      <srai>NGUOI GIAI QUYET TO CAO LA CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO CAO CO QUAN</pattern>
+   <template>
+      <srai>NGUOI GIAI QUYET TO CAO LA CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO CAO CO QUAN *</pattern>
+   <template>
+      <srai>NGUOI GIAI QUYET TO CAO LA CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO CAO * CO QUAN</pattern>
+   <template>
+      <srai>NGUOI GIAI QUYET TO CAO LA CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO CAO * CO QUAN *</pattern>
+   <template>
+      <srai>NGUOI GIAI QUYET TO CAO LA CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO CAO * CO QUAN</pattern>
+   <template>
+      <srai>NGUOI GIAI QUYET TO CAO LA CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO CAO * CO QUAN *</pattern>
+   <template>
+      <srai>NGUOI GIAI QUYET TO CAO LA CO QUAN NAO</srai>
+   </template>
+</category>
+
+</aiml>

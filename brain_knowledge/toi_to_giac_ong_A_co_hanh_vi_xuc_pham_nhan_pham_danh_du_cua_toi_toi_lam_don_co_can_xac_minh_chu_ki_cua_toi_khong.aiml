@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</pattern>
+   <template>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM DANH DU CAN XAC MINH CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM DANH DU CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM DANH DU CAN XAC MINH CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM DANH DU CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM * DANH DU * CAN XAC MINH * CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM * DANH DU * CAN XAC MINH * CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM * DANH DU * CAN XAC MINH * CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM * DANH DU * CAN XAC MINH * CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM CAN XAC MINH CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM CAN XAC MINH CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM * CAN XAC MINH * CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM * CAN XAC MINH * CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM * CAN XAC MINH * CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM * CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM * CAN XAC MINH CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM * CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM * CAN XAC MINH CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM * CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU CAN XAC MINH CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU CAN XAC MINH CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * CAN XAC MINH * CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * CAN XAC MINH * CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * CAN XAC MINH * CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * CAN XAC MINH * CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * CAN XAC MINH CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * CAN XAC MINH CHU KI</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * CAN XAC MINH CHU KI *</pattern>
+   <template>
+      <srai>TOI TO GIAC ONG A CO HANH VI XUC PHAM TOI TOI LAM DON CO CAN CHU KI CUA TOI KHONG</srai>
+   </template>
+</category>
+
+</aiml>

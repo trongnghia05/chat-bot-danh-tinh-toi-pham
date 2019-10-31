@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</template>
+</category>
+
+<category>
+   <pattern>THA CHO NOI CONG CONG VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THA CHO NOI CONG CONG VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THA CHO NOI CONG CONG VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THA CHO NOI CONG CONG VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THA CHO * NOI CONG CONG * VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THA CHO * NOI CONG CONG * VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THA CHO * NOI CONG CONG * VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THA CHO * NOI CONG CONG * VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THA CHO * NOI CONG CONG VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THA CHO * NOI CONG CONG VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THA CHO * NOI CONG CONG VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THA CHO * NOI CONG CONG VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THA CHO NOI CONG CONG * VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THA CHO NOI CONG CONG * VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THA CHO NOI CONG CONG * VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THA CHO NOI CONG CONG * VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A THA CHO RA NGOAI NOI CONG CONG CO HANH VI QUAY ROI NGUOI XUNG QUOANH ONG A CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</pattern>
+   <template>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY DAU HIEU GIAN DOI CHIEM DOAT TAI SAN  LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY DAU HIEU GIAN DOI CHIEM DOAT TAI SAN  LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY DAU HIEU GIAN DOI CHIEM DOAT TAI SAN  LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY DAU HIEU GIAN DOI CHIEM DOAT TAI SAN  LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY * DAU HIEU GIAN DOI * CHIEM DOAT TAI SAN  * LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY * DAU HIEU GIAN DOI * CHIEM DOAT TAI SAN  * LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY * DAU HIEU GIAN DOI * CHIEM DOAT TAI SAN  * LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY * DAU HIEU GIAN DOI * CHIEM DOAT TAI SAN  * LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY * DAU HIEU GIAN DOI CHIEM DOAT TAI SAN  LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY * DAU HIEU GIAN DOI CHIEM DOAT TAI SAN  LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY * DAU HIEU GIAN DOI CHIEM DOAT TAI SAN  * LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY * DAU HIEU GIAN DOI CHIEM DOAT TAI SAN  * LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY DAU HIEU GIAN DOI LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY DAU HIEU GIAN DOI LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY DAU HIEU GIAN DOI LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY DAU HIEU GIAN DOI LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY * DAU HIEU GIAN DOI * LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY * DAU HIEU GIAN DOI * LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY * DAU HIEU GIAN DOI * LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY * DAU HIEU GIAN DOI * LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY CHIEM DOAT TAI SAN  LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY CHIEM DOAT TAI SAN  LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY CHIEM DOAT TAI SAN  LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY CHIEM DOAT TAI SAN  LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY * CHIEM DOAT TAI SAN  * LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY * CHIEM DOAT TAI SAN  * LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAN NHAN THAY * CHIEM DOAT TAI SAN  * LAM GI</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAN NHAN THAY * CHIEM DOAT TAI SAN  * LAM GI *</pattern>
+   <template>
+      <srai>NEU BAN THAY HO CO NHUNG DAU HIEU GIAN DOI NHAM CHIEM DOAT SO TIEN CUA MINH THI BAN LAM GI</srai>
+   </template>
+</category>
+
+</aiml>

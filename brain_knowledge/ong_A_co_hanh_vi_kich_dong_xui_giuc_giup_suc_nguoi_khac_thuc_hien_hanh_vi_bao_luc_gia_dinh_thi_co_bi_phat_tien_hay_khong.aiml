@@ -1,0 +1,2141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</pattern>
+   <template>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KICH DONG HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KICH DONG HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIUP SUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * HANH VI BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC * HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC HANH VI * BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC HANH VI BAO LUC GIA DINH * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUI GIUC HANH VI * BAO LUC GIA DINH PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI KICH DONG XUI GIUC GIUP SUC NGUOI KHAC THUC HIEN HANH VI BAO LUC GIA DINH THI CO BI PHAT TIEN HAY KHONG</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>NEU HANH VI VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM THI VU VIEC SE DUOC CHUYEN CHO CO QUAN NAO DE GIAI QUYET</pattern>
+   <template>NEU HANH VI VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM THI VU VIEC SE DUOC CHUYEN CHO CO QUAN NAO DE GIAI QUYET</template>
+</category>
+
+<category>
+   <pattern>VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM GIAI QUYET</pattern>
+   <template>
+      <srai>NEU HANH VI VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM THI VU VIEC SE DUOC CHUYEN CHO CO QUAN NAO DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM GIAI QUYET *</pattern>
+   <template>
+      <srai>NEU HANH VI VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM THI VU VIEC SE DUOC CHUYEN CHO CO QUAN NAO DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM GIAI QUYET</pattern>
+   <template>
+      <srai>NEU HANH VI VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM THI VU VIEC SE DUOC CHUYEN CHO CO QUAN NAO DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM GIAI QUYET *</pattern>
+   <template>
+      <srai>NEU HANH VI VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM THI VU VIEC SE DUOC CHUYEN CHO CO QUAN NAO DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM * GIAI QUYET</pattern>
+   <template>
+      <srai>NEU HANH VI VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM THI VU VIEC SE DUOC CHUYEN CHO CO QUAN NAO DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM * GIAI QUYET *</pattern>
+   <template>
+      <srai>NEU HANH VI VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM THI VU VIEC SE DUOC CHUYEN CHO CO QUAN NAO DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM * GIAI QUYET</pattern>
+   <template>
+      <srai>NEU HANH VI VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM THI VU VIEC SE DUOC CHUYEN CHO CO QUAN NAO DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM * GIAI QUYET *</pattern>
+   <template>
+      <srai>NEU HANH VI VI PHAM CUA NGUOI BI TO CAO CO DAU HIEU TOI PHAM THI VU VIEC SE DUOC CHUYEN CHO CO QUAN NAO DE GIAI QUYET</srai>
+   </template>
+</category>
+
+</aiml>

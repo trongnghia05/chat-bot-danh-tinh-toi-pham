@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</pattern>
+   <template>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET VU AN DAN SU TOA AN LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET VU AN DAN SU TOA AN LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET VU AN DAN SU TOA AN LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET VU AN DAN SU TOA AN LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET * VU AN DAN SU * TOA AN * LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET * VU AN DAN SU * TOA AN * LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET * VU AN DAN SU * TOA AN * LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET * VU AN DAN SU * TOA AN * LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET * VU AN DAN SU TOA AN LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET * VU AN DAN SU TOA AN LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET * VU AN DAN SU TOA AN * LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET * VU AN DAN SU TOA AN * LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET VU AN DAN SU LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET VU AN DAN SU LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET VU AN DAN SU LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET VU AN DAN SU LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET * VU AN DAN SU * LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET * VU AN DAN SU * LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET * VU AN DAN SU * LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET * VU AN DAN SU * LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET TOA AN LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET TOA AN LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET TOA AN LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET TOA AN LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET * TOA AN * LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET * TOA AN * LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THAM QUYEN GIAI QUYET * TOA AN * LANH THO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET * TOA AN * LANH THO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET VU AN DAN SU CUA TOA AN THEO LANH THO DUOC XAC DINH NHU THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

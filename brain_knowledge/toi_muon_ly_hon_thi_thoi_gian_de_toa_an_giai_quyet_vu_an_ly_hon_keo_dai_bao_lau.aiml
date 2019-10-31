@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</pattern>
+   <template>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN TOA AN GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN TOA AN GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN TOA AN GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN TOA AN GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN * TOA AN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN * TOA AN * GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN * TOA AN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN * TOA AN * GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN TOA AN KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN TOA AN KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN TOA AN KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN TOA AN KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN * TOA AN * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN * TOA AN * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN * TOA AN * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN * TOA AN * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN TOA AN KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN TOA AN KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN TOA AN KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN TOA AN KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN TOA AN * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN TOA AN * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN TOA AN * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN TOA AN * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN * TOA AN KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN * TOA AN KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN * TOA AN KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN * TOA AN KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN * TOA AN * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN * TOA AN * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN * TOA AN * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN * TOA AN * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN * TOA AN * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN TOA AN * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN TOA AN * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN TOA AN * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN * TOA AN KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN * TOA AN KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN * TOA AN KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN * TOA AN KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN * GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN * GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN * GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN * GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * THOI GIAN * GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * THOI GIAN * GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN * GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN * GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN * GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN * GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON THOI GIAN * GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON THOI GIAN * GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON TOA AN GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON TOA AN GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON TOA AN GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON TOA AN GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * TOA AN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * TOA AN * GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * TOA AN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * TOA AN * GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * TOA AN GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * TOA AN GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * TOA AN GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * TOA AN GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * TOA AN GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * TOA AN GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * TOA AN GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * TOA AN GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * TOA AN * GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * TOA AN * GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * TOA AN * GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * TOA AN * GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON TOA AN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON TOA AN * GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON TOA AN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON TOA AN * GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON TOA AN * GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON TOA AN GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON TOA AN GIAI QUYET VU AN LY HON * KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON TOA AN GIAI QUYET VU AN LY HON * KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON TOA AN * GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON TOA AN * GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON TOA AN * GIAI QUYET VU AN LY HON KEO DAI</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON TOA AN * GIAI QUYET VU AN LY HON KEO DAI *</pattern>
+   <template>
+      <srai>TOI MUON LY HON THI THOI GIAN DE TOA AN GIAI QUYET VU AN LY HON KEO DAI BAO LAU</srai>
+   </template>
+</category>
+
+</aiml>

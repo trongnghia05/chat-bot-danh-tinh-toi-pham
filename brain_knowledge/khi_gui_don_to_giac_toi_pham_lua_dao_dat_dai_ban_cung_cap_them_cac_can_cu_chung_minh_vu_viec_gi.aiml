@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</pattern>
+   <template>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</template>
+</category>
+
+<category>
+   <pattern>TO GIAC TOI PHAM LUA DAO DAT DAI CUNG CAP CAN CU CHUNG MINH</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC TOI PHAM LUA DAO DAT DAI CUNG CAP CAN CU CHUNG MINH *</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC TOI PHAM LUA DAO DAT DAI CUNG CAP CAN CU CHUNG MINH</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC TOI PHAM LUA DAO DAT DAI CUNG CAP CAN CU CHUNG MINH *</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC TOI PHAM LUA DAO DAT DAI * CUNG CAP * CAN CU CHUNG MINH</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC TOI PHAM LUA DAO DAT DAI * CUNG CAP * CAN CU CHUNG MINH *</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC TOI PHAM LUA DAO DAT DAI * CUNG CAP * CAN CU CHUNG MINH</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC TOI PHAM LUA DAO DAT DAI * CUNG CAP * CAN CU CHUNG MINH *</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC TOI PHAM LUA DAO DAT DAI * CUNG CAP CAN CU CHUNG MINH</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC TOI PHAM LUA DAO DAT DAI * CUNG CAP CAN CU CHUNG MINH *</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC TOI PHAM LUA DAO DAT DAI * CUNG CAP CAN CU CHUNG MINH</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC TOI PHAM LUA DAO DAT DAI * CUNG CAP CAN CU CHUNG MINH *</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC TOI PHAM LUA DAO DAT DAI CUNG CAP * CAN CU CHUNG MINH</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC TOI PHAM LUA DAO DAT DAI CUNG CAP * CAN CU CHUNG MINH *</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC TOI PHAM LUA DAO DAT DAI CUNG CAP * CAN CU CHUNG MINH</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC TOI PHAM LUA DAO DAT DAI CUNG CAP * CAN CU CHUNG MINH *</pattern>
+   <template>
+      <srai>KHI GUI DON TO GIAC TOI PHAM LuA DAO DAT DAI BAN CUNG CAP THEM CAC CAN CU CHUNG MINH VU VIEC GI</srai>
+   </template>
+</category>
+
+</aiml>

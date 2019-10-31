@@ -1,0 +1,2141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</pattern>
+   <template>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO QUAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO QUAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CA NHAN DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * DON VI TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC * DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC DON VI * TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC DON VI TIEP NHAN TO CAO * TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CHUC DON VI * TIEP NHAN TO CAO TRACH NHIEM *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CA NHAN TIEP NHAN TO CAO GIAI QUYET TO CAO CO TRACH NHIEM NHU THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

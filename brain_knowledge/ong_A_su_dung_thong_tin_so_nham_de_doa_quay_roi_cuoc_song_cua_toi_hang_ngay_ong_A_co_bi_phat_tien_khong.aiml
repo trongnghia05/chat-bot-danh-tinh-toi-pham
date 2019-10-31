@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</pattern>
+   <template>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO DE DOA QUAY ROI PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO DE DOA QUAY ROI PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO DE DOA QUAY ROI PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO DE DOA QUAY ROI PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO * DE DOA * QUAY ROI * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO * DE DOA * QUAY ROI * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO * DE DOA * QUAY ROI * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO * DE DOA * QUAY ROI * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO * DE DOA QUAY ROI PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO * DE DOA QUAY ROI PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO * DE DOA QUAY ROI * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO * DE DOA QUAY ROI * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO DE DOA PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO DE DOA PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO DE DOA PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO DE DOA PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO * DE DOA * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO * DE DOA * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO * DE DOA * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO * DE DOA * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO QUAY ROI PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO QUAY ROI PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO QUAY ROI PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO QUAY ROI PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO * QUAY ROI * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO * QUAY ROI * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG THONG TIN SO * QUAY ROI * PHAT TIEN</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG THONG TIN SO * QUAY ROI * PHAT TIEN *</pattern>
+   <template>
+      <srai>ONG A SU DUNG THONG TIN SO NHAM DE DOA QUAY ROI CUOC SONG CUA TOI HANG NGAY CO BI PHAT TIEN KHONG</srai>
+   </template>
+</category>
+
+</aiml>

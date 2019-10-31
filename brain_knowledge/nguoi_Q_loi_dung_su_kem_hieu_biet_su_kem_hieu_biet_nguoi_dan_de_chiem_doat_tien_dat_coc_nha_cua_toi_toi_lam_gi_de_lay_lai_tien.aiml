@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</pattern>
+   <template>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</template>
+</category>
+
+<category>
+   <pattern>KEM HIEU BIET CHIEM DOAT TIEN LAY LAI TIEN</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KEM HIEU BIET CHIEM DOAT TIEN LAY LAI TIEN *</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KEM HIEU BIET CHIEM DOAT TIEN LAY LAI TIEN</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KEM HIEU BIET CHIEM DOAT TIEN LAY LAI TIEN *</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KEM HIEU BIET * CHIEM DOAT TIEN * LAY LAI TIEN</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KEM HIEU BIET * CHIEM DOAT TIEN * LAY LAI TIEN *</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KEM HIEU BIET * CHIEM DOAT TIEN * LAY LAI TIEN</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KEM HIEU BIET * CHIEM DOAT TIEN * LAY LAI TIEN *</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KEM HIEU BIET * CHIEM DOAT TIEN LAY LAI TIEN</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KEM HIEU BIET * CHIEM DOAT TIEN LAY LAI TIEN *</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KEM HIEU BIET * CHIEM DOAT TIEN LAY LAI TIEN</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KEM HIEU BIET * CHIEM DOAT TIEN LAY LAI TIEN *</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KEM HIEU BIET CHIEM DOAT TIEN * LAY LAI TIEN</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KEM HIEU BIET CHIEM DOAT TIEN * LAY LAI TIEN *</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KEM HIEU BIET CHIEM DOAT TIEN * LAY LAI TIEN</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KEM HIEU BIET CHIEM DOAT TIEN * LAY LAI TIEN *</pattern>
+   <template>
+      <srai>NGUOI Q LOI DUNG SU KEM HIEU BIET SU KEM HIEU BIET NGUOI DAN DE CHIEM DOAT TIEN DAT COC NHA CUA TOI</srai>
+   </template>
+</category>
+
+</aiml>

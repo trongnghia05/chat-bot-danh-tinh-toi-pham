@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</pattern>
+   <template>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</template>
+</category>
+
+<category>
+   <pattern>SAN XUAT CAC MAT HANG GAY HAI SUC KHOE NGUOI TIEU DUNG XU LY</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SAN XUAT CAC MAT HANG GAY HAI SUC KHOE NGUOI TIEU DUNG XU LY *</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SAN XUAT CAC MAT HANG GAY HAI SUC KHOE NGUOI TIEU DUNG XU LY</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SAN XUAT CAC MAT HANG GAY HAI SUC KHOE NGUOI TIEU DUNG XU LY *</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SAN XUAT CAC MAT HANG * GAY HAI SUC KHOE NGUOI TIEU DUNG * XU LY</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SAN XUAT CAC MAT HANG * GAY HAI SUC KHOE NGUOI TIEU DUNG * XU LY *</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SAN XUAT CAC MAT HANG * GAY HAI SUC KHOE NGUOI TIEU DUNG * XU LY</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SAN XUAT CAC MAT HANG * GAY HAI SUC KHOE NGUOI TIEU DUNG * XU LY *</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SAN XUAT CAC MAT HANG * GAY HAI SUC KHOE NGUOI TIEU DUNG XU LY</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SAN XUAT CAC MAT HANG * GAY HAI SUC KHOE NGUOI TIEU DUNG XU LY *</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SAN XUAT CAC MAT HANG * GAY HAI SUC KHOE NGUOI TIEU DUNG XU LY</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SAN XUAT CAC MAT HANG * GAY HAI SUC KHOE NGUOI TIEU DUNG XU LY *</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SAN XUAT CAC MAT HANG GAY HAI SUC KHOE NGUOI TIEU DUNG * XU LY</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SAN XUAT CAC MAT HANG GAY HAI SUC KHOE NGUOI TIEU DUNG * XU LY *</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SAN XUAT CAC MAT HANG GAY HAI SUC KHOE NGUOI TIEU DUNG * XU LY</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SAN XUAT CAC MAT HANG GAY HAI SUC KHOE NGUOI TIEU DUNG * XU LY *</pattern>
+   <template>
+      <srai>ONG A SAN XUAT CAC MAT HANG GAY HAI CHO SUC KHOE NGUOI TIEU DUNG ONG A BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

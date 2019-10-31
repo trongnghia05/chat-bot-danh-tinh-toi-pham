@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</pattern>
+   <template>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</template>
+</category>
+
+<category>
+   <pattern>HANG XOM DANH VO VA CON BAO CHO CO QUAN CHUC NANG</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANG XOM DANH VO VA CON BAO CHO CO QUAN CHUC NANG *</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANG XOM DANH VO VA CON BAO CHO CO QUAN CHUC NANG</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANG XOM DANH VO VA CON BAO CHO CO QUAN CHUC NANG *</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANG XOM * DANH VO VA CON * BAO CHO CO QUAN CHUC NANG</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANG XOM * DANH VO VA CON * BAO CHO CO QUAN CHUC NANG *</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANG XOM * DANH VO VA CON * BAO CHO CO QUAN CHUC NANG</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANG XOM * DANH VO VA CON * BAO CHO CO QUAN CHUC NANG *</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANG XOM * DANH VO VA CON BAO CHO CO QUAN CHUC NANG</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANG XOM * DANH VO VA CON BAO CHO CO QUAN CHUC NANG *</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANG XOM * DANH VO VA CON BAO CHO CO QUAN CHUC NANG</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANG XOM * DANH VO VA CON BAO CHO CO QUAN CHUC NANG *</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANG XOM DANH VO VA CON * BAO CHO CO QUAN CHUC NANG</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANG XOM DANH VO VA CON * BAO CHO CO QUAN CHUC NANG *</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANG XOM DANH VO VA CON * BAO CHO CO QUAN CHUC NANG</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANG XOM DANH VO VA CON * BAO CHO CO QUAN CHUC NANG *</pattern>
+   <template>
+      <srai>TOI LA HANG XOM CUA NHA A TOI LUON THAY CHONG DANH VO VA CON TOI BAO CHO CON QUAN CHUC NANG DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+</aiml>

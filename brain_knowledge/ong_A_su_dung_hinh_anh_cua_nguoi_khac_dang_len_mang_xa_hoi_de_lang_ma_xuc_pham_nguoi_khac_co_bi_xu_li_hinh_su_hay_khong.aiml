@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</pattern>
+   <template>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</template>
+</category>
+
+<category>
+   <pattern>SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI XU LI HINH SU</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI XU LI HINH SU *</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI XU LI HINH SU</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI XU LI HINH SU *</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG HINH ANH CUA NGUOI KHAC * DANG LEN MANG XA HOI * XU LI HINH SU</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG HINH ANH CUA NGUOI KHAC * DANG LEN MANG XA HOI * XU LI HINH SU *</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG HINH ANH CUA NGUOI KHAC * DANG LEN MANG XA HOI * XU LI HINH SU</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG HINH ANH CUA NGUOI KHAC * DANG LEN MANG XA HOI * XU LI HINH SU *</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG HINH ANH CUA NGUOI KHAC * DANG LEN MANG XA HOI XU LI HINH SU</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG HINH ANH CUA NGUOI KHAC * DANG LEN MANG XA HOI XU LI HINH SU *</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG HINH ANH CUA NGUOI KHAC * DANG LEN MANG XA HOI XU LI HINH SU</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG HINH ANH CUA NGUOI KHAC * DANG LEN MANG XA HOI XU LI HINH SU *</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI * XU LI HINH SU</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI * XU LI HINH SU *</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI * XU LI HINH SU</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI * XU LI HINH SU *</pattern>
+   <template>
+      <srai>ONG A SU DUNG HINH ANH CUA NGUOI KHAC DANG LEN MANG XA HOI DE LANG MA XUC PHAM NGUOI KHAC CO BI XU LI HINH SU HAY KHONG</srai>
+   </template>
+</category>
+
+</aiml>

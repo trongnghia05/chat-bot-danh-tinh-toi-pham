@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI CO HANH VI LAM GIA HANG CUA CONG TY A TOI CO BI XU LY HINH SU KHONG</pattern>
+   <template>TOI CO HANH VI LAM GIA HANG CUA CONG TY A TOI CO BI XU LY HINH SU KHONG</template>
+</category>
+
+<category>
+   <pattern>LAM GIA HANG XU LY HINH SU</pattern>
+   <template>
+      <srai>TOI CO HANH VI LAM GIA HANG CUA CONG TY A TOI CO BI XU LY HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GIA HANG XU LY HINH SU *</pattern>
+   <template>
+      <srai>TOI CO HANH VI LAM GIA HANG CUA CONG TY A TOI CO BI XU LY HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GIA HANG XU LY HINH SU</pattern>
+   <template>
+      <srai>TOI CO HANH VI LAM GIA HANG CUA CONG TY A TOI CO BI XU LY HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM GIA HANG XU LY HINH SU *</pattern>
+   <template>
+      <srai>TOI CO HANH VI LAM GIA HANG CUA CONG TY A TOI CO BI XU LY HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM GIA HANG * XU LY HINH SU</pattern>
+   <template>
+      <srai>TOI CO HANH VI LAM GIA HANG CUA CONG TY A TOI CO BI XU LY HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GIA HANG * XU LY HINH SU *</pattern>
+   <template>
+      <srai>TOI CO HANH VI LAM GIA HANG CUA CONG TY A TOI CO BI XU LY HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAM GIA HANG * XU LY HINH SU</pattern>
+   <template>
+      <srai>TOI CO HANH VI LAM GIA HANG CUA CONG TY A TOI CO BI XU LY HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAM GIA HANG * XU LY HINH SU *</pattern>
+   <template>
+      <srai>TOI CO HANH VI LAM GIA HANG CUA CONG TY A TOI CO BI XU LY HINH SU KHONG</srai>
+   </template>
+</category>
+
+</aiml>

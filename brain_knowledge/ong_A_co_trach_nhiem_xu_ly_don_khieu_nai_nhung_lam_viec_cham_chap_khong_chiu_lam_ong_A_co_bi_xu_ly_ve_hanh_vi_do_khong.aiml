@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</pattern>
+   <template>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI LAM VIEC CHAM CHAP KHONG CHIU LAM BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI LAM VIEC CHAM CHAP KHONG CHIU LAM BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI LAM VIEC CHAM CHAP KHONG CHIU LAM BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI LAM VIEC CHAM CHAP KHONG CHIU LAM BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP * KHONG CHIU LAM * BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP * KHONG CHIU LAM * BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP * KHONG CHIU LAM * BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP * KHONG CHIU LAM * BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP KHONG CHIU LAM BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP KHONG CHIU LAM BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP KHONG CHIU LAM * BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP KHONG CHIU LAM * BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI LAM VIEC CHAM CHAP BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI LAM VIEC CHAM CHAP BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI LAM VIEC CHAM CHAP BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI LAM VIEC CHAM CHAP BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP * BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP * BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP * BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI * LAM VIEC CHAM CHAP * BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI KHONG CHIU LAM BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI KHONG CHIU LAM BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI KHONG CHIU LAM BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI KHONG CHIU LAM BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI * KHONG CHIU LAM * BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI * KHONG CHIU LAM * BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY DON KHIEU NAI * KHONG CHIU LAM * BI XU LY VE HANH VI</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY DON KHIEU NAI * KHONG CHIU LAM * BI XU LY VE HANH VI *</pattern>
+   <template>
+      <srai>ONG A CO TRACH NHIEM XU LY DON KHIEU NAI NHUNG LAM VIEC CHAM CHAP KHONG CHIU LAM ONG A CO BI XU LY VE HANH VI DO KHONG</srai>
+   </template>
+</category>
+
+</aiml>

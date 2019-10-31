@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</pattern>
+   <template>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</template>
+</category>
+
+<category>
+   <pattern>CO THE LAM DON TRINH BAO TOI PHAM CO QUAN CONG AN XA NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM DON TRINH BAO TOI PHAM CO QUAN CONG AN XA NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM DON TRINH BAO TOI PHAM CO QUAN CONG AN XA NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM DON TRINH BAO TOI PHAM CO QUAN CONG AN XA NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM * DON TRINH BAO TOI PHAM * CO QUAN CONG AN XA * NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM * DON TRINH BAO TOI PHAM * CO QUAN CONG AN XA * NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM * DON TRINH BAO TOI PHAM * CO QUAN CONG AN XA * NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM * DON TRINH BAO TOI PHAM * CO QUAN CONG AN XA * NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM * DON TRINH BAO TOI PHAM CO QUAN CONG AN XA NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM * DON TRINH BAO TOI PHAM CO QUAN CONG AN XA NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM * DON TRINH BAO TOI PHAM CO QUAN CONG AN XA * NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM * DON TRINH BAO TOI PHAM CO QUAN CONG AN XA * NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM DON TRINH BAO TOI PHAM NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM DON TRINH BAO TOI PHAM NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM DON TRINH BAO TOI PHAM NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM DON TRINH BAO TOI PHAM NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM * DON TRINH BAO TOI PHAM * NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM * DON TRINH BAO TOI PHAM * NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM * DON TRINH BAO TOI PHAM * NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM * DON TRINH BAO TOI PHAM * NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM CO QUAN CONG AN XA NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM CO QUAN CONG AN XA NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM CO QUAN CONG AN XA NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM CO QUAN CONG AN XA NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM * CO QUAN CONG AN XA * NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM * CO QUAN CONG AN XA * NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO THE LAM * CO QUAN CONG AN XA * NOI O</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO THE LAM * CO QUAN CONG AN XA * NOI O *</pattern>
+   <template>
+      <srai>CO THE LAM DON TRINH BAO TOI PHAM RA CO QUAN CONG AN XA NOI TOI O KHONG</srai>
+   </template>
+</category>
+
+</aiml>

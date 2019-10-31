@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</pattern>
+   <template>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</template>
+</category>
+
+<category>
+   <pattern>NOP DON O NHIEM MOI TRUONG TOAN AN NHAN DAN CAO XA</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOP DON O NHIEM MOI TRUONG TOAN AN NHAN DAN CAO XA *</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOP DON O NHIEM MOI TRUONG TOAN AN NHAN DAN CAO XA</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOP DON O NHIEM MOI TRUONG TOAN AN NHAN DAN CAO XA *</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOP DON * O NHIEM MOI TRUONG * TOAN AN NHAN DAN CAO XA</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOP DON * O NHIEM MOI TRUONG * TOAN AN NHAN DAN CAO XA *</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOP DON * O NHIEM MOI TRUONG * TOAN AN NHAN DAN CAO XA</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOP DON * O NHIEM MOI TRUONG * TOAN AN NHAN DAN CAO XA *</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOP DON * O NHIEM MOI TRUONG TOAN AN NHAN DAN CAO XA</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOP DON * O NHIEM MOI TRUONG TOAN AN NHAN DAN CAO XA *</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOP DON * O NHIEM MOI TRUONG TOAN AN NHAN DAN CAO XA</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOP DON * O NHIEM MOI TRUONG TOAN AN NHAN DAN CAO XA *</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOP DON O NHIEM MOI TRUONG * TOAN AN NHAN DAN CAO XA</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOP DON O NHIEM MOI TRUONG * TOAN AN NHAN DAN CAO XA *</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NOP DON O NHIEM MOI TRUONG * TOAN AN NHAN DAN CAO XA</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NOP DON O NHIEM MOI TRUONG * TOAN AN NHAN DAN CAO XA *</pattern>
+   <template>
+      <srai>TOI CO THE NOP DON TOA AN NHAN DAN CAP XA VE HANH VI GAY O NHIEM MOI TRUONG NHA ONG A KHONG</srai>
+   </template>
+</category>
+
+</aiml>

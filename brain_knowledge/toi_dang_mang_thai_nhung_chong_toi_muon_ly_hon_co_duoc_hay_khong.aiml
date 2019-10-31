@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</pattern>
+   <template>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</template>
+</category>
+
+<category>
+   <pattern>MANG THAI CHONG LY HON</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG THAI CHONG LY HON *</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG THAI CHONG LY HON</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG THAI CHONG LY HON *</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG THAI * CHONG * LY HON</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG THAI * CHONG * LY HON *</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG THAI * CHONG * LY HON</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG THAI * CHONG * LY HON *</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG THAI * CHONG LY HON</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG THAI * CHONG LY HON *</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG THAI * CHONG LY HON</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG THAI * CHONG LY HON *</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG THAI CHONG * LY HON</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG THAI CHONG * LY HON *</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG THAI CHONG * LY HON</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG THAI CHONG * LY HON *</pattern>
+   <template>
+      <srai>TOI DANG MANG THAI NHUNG CHONG TOI MUON LY HON CO DUOC HAY KHONG</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>BA A LA ME CUA DUA CON NHUNG LUON TRONG TINH TRANG DANH DAP DUA NHO BA CO HANH VI BAO LUC GIA DINH KHONG</pattern>
+   <template>BA A LA ME CUA DUA CON NHUNG LUON TRONG TINH TRANG DANH DAP DUA NHO BA CO HANH VI BAO LUC GIA DINH KHONG</template>
+</category>
+
+<category>
+   <pattern>DANH DAP BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>BA A LA ME CUA DUA CON NHUNG LUON TRONG TINH TRANG DANH DAP DUA NHO BA CO HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DAP BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>BA A LA ME CUA DUA CON NHUNG LUON TRONG TINH TRANG DANH DAP DUA NHO BA CO HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DAP BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>BA A LA ME CUA DUA CON NHUNG LUON TRONG TINH TRANG DANH DAP DUA NHO BA CO HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DAP BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>BA A LA ME CUA DUA CON NHUNG LUON TRONG TINH TRANG DANH DAP DUA NHO BA CO HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DAP * BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>BA A LA ME CUA DUA CON NHUNG LUON TRONG TINH TRANG DANH DAP DUA NHO BA CO HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DAP * BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>BA A LA ME CUA DUA CON NHUNG LUON TRONG TINH TRANG DANH DAP DUA NHO BA CO HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DAP * BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>BA A LA ME CUA DUA CON NHUNG LUON TRONG TINH TRANG DANH DAP DUA NHO BA CO HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DAP * BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>BA A LA ME CUA DUA CON NHUNG LUON TRONG TINH TRANG DANH DAP DUA NHO BA CO HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TO CAO LA GI</pattern>
+   <template>TO CAO LA GI</template>
+</category>
+
+<category>
+   <pattern>TO CAO LA</pattern>
+   <template>
+      <srai>TO CAO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO LA *</pattern>
+   <template>
+      <srai>TO CAO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO LA</pattern>
+   <template>
+      <srai>TO CAO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO LA *</pattern>
+   <template>
+      <srai>TO CAO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * LA</pattern>
+   <template>
+      <srai>TO CAO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * LA *</pattern>
+   <template>
+      <srai>TO CAO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * LA</pattern>
+   <template>
+      <srai>TO CAO LA GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * LA *</pattern>
+   <template>
+      <srai>TO CAO LA GI</srai>
+   </template>
+</category>
+
+</aiml>

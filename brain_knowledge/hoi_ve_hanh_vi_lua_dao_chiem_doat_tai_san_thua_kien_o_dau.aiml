@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</pattern>
+   <template>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</template>
+</category>
+
+<category>
+   <pattern>HANH VI LUA DAO CHIEM DOAT TAI SAN THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI LUA DAO CHIEM DOAT TAI SAN THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI LUA DAO CHIEM DOAT TAI SAN THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI LUA DAO CHIEM DOAT TAI SAN THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI * LUA DAO * CHIEM DOAT TAI SAN * THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI * LUA DAO * CHIEM DOAT TAI SAN * THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI * LUA DAO * CHIEM DOAT TAI SAN * THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI * LUA DAO * CHIEM DOAT TAI SAN * THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI * LUA DAO CHIEM DOAT TAI SAN THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI * LUA DAO CHIEM DOAT TAI SAN THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI * LUA DAO CHIEM DOAT TAI SAN * THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI * LUA DAO CHIEM DOAT TAI SAN * THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI LUA DAO THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI LUA DAO THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI LUA DAO THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI LUA DAO THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI * LUA DAO * THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI * LUA DAO * THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI * LUA DAO * THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI * LUA DAO * THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI CHIEM DOAT TAI SAN THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI CHIEM DOAT TAI SAN THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI CHIEM DOAT TAI SAN THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI CHIEM DOAT TAI SAN THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI * CHIEM DOAT TAI SAN * THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI * CHIEM DOAT TAI SAN * THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HANH VI * CHIEM DOAT TAI SAN * THUA KIEN</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HANH VI * CHIEM DOAT TAI SAN * THUA KIEN *</pattern>
+   <template>
+      <srai>HOI VE HANH VI LUA DAU CHIEM DOAT TAI SAN THUA KIEN O DAU</srai>
+   </template>
+</category>
+
+</aiml>

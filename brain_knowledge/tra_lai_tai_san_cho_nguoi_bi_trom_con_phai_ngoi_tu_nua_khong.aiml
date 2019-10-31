@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</pattern>
+   <template>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</template>
+</category>
+
+<category>
+   <pattern>TRA LAI TAI SAN NGUOI BI TROM NGOI TU</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRA LAI TAI SAN NGUOI BI TROM NGOI TU *</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRA LAI TAI SAN NGUOI BI TROM NGOI TU</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRA LAI TAI SAN NGUOI BI TROM NGOI TU *</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRA LAI TAI SAN * NGUOI BI TROM * NGOI TU</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRA LAI TAI SAN * NGUOI BI TROM * NGOI TU *</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRA LAI TAI SAN * NGUOI BI TROM * NGOI TU</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRA LAI TAI SAN * NGUOI BI TROM * NGOI TU *</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRA LAI TAI SAN * NGUOI BI TROM NGOI TU</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRA LAI TAI SAN * NGUOI BI TROM NGOI TU *</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRA LAI TAI SAN * NGUOI BI TROM NGOI TU</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRA LAI TAI SAN * NGUOI BI TROM NGOI TU *</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRA LAI TAI SAN NGUOI BI TROM * NGOI TU</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRA LAI TAI SAN NGUOI BI TROM * NGOI TU *</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TRA LAI TAI SAN NGUOI BI TROM * NGOI TU</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TRA LAI TAI SAN NGUOI BI TROM * NGOI TU *</pattern>
+   <template>
+      <srai>TRA LAI TAI SAN CHO NGUOI BI TROM CON PHAi NGOI TU NUA KHONG</srai>
+   </template>
+</category>
+
+</aiml>

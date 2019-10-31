@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</pattern>
+   <template>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN TO GIAC TIN BAO VE TOI PHAM CO QUAN TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN TO GIAC TIN BAO VE TOI PHAM CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN TO GIAC TIN BAO VE TOI PHAM CO QUAN TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN TO GIAC TIN BAO VE TOI PHAM CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN TO GIAC * TIN BAO VE TOI PHAM * CO QUAN * TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN TO GIAC * TIN BAO VE TOI PHAM * CO QUAN * TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN TO GIAC * TIN BAO VE TOI PHAM * CO QUAN * TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN TO GIAC * TIN BAO VE TOI PHAM * CO QUAN * TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN TO GIAC CO QUAN TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN TO GIAC CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN TO GIAC CO QUAN TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN TO GIAC CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN TO GIAC * CO QUAN * TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN TO GIAC * CO QUAN * TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN TO GIAC * CO QUAN * TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN TO GIAC * CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN TO GIAC * CO QUAN TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN TO GIAC * CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIEP NHAN TO GIAC * CO QUAN TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIEP NHAN TO GIAC * CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO VE TOI PHAM CO QUAN TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO VE TOI PHAM CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO VE TOI PHAM CO QUAN TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO VE TOI PHAM CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO VE TOI PHAM * CO QUAN * TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO VE TOI PHAM * CO QUAN * TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO VE TOI PHAM * CO QUAN * TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO VE TOI PHAM * CO QUAN * TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO VE TOI PHAM * CO QUAN TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO VE TOI PHAM * CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO VE TOI PHAM * CO QUAN TO CHUC</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO VE TOI PHAM * CO QUAN TO CHUC *</pattern>
+   <template>
+      <srai>CO QUAN TO CHUC CO TRACH NHIEM TIEP NHAN TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO GOM CO QUAN TO CHUC NAO</srai>
+   </template>
+</category>
+
+</aiml>

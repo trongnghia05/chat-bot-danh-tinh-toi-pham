@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</pattern>
+   <template>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</template>
+</category>
+
+<category>
+   <pattern>TO CAO MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO TIEP THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO TIEP THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO TIEP THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO TIEP THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO * TIEP * THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO * TIEP * THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO * TIEP * THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO * TIEP * THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO TIEP THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO TIEP THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO TIEP * THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO TIEP * THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO * THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO * THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO * THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * MAT BAO NHIEU NGAY KE TU NGAY NHAN DUOC TO CAO * THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO TIEP THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO TIEP THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO TIEP THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO TIEP THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * TIEP * THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * TIEP * THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * TIEP * THU LY GIAI QUYET</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * TIEP * THU LY GIAI QUYET *</pattern>
+   <template>
+      <srai>TOI TO CAO THI MAT BAO LAU KE TU NGAY NGAN DUOC TO CAO CO QUAN TO CHUC CA NHAN TO CAO PHAI THU LY DE GIAI QUYET</srai>
+   </template>
+</category>
+
+</aiml>

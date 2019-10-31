@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</pattern>
+   <template>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</template>
+</category>
+
+<category>
+   <pattern>KHONG TO CAO AN CAP TAI SAN TOI</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG TO CAO AN CAP TAI SAN TOI *</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG TO CAO AN CAP TAI SAN TOI</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG TO CAO AN CAP TAI SAN TOI *</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG TO CAO * AN CAP TAI SAN * TOI</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG TO CAO * AN CAP TAI SAN * TOI *</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG TO CAO * AN CAP TAI SAN * TOI</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG TO CAO * AN CAP TAI SAN * TOI *</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG TO CAO * AN CAP TAI SAN TOI</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG TO CAO * AN CAP TAI SAN TOI *</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG TO CAO * AN CAP TAI SAN TOI</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG TO CAO * AN CAP TAI SAN TOI *</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG TO CAO AN CAP TAI SAN * TOI</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG TO CAO AN CAP TAI SAN * TOI *</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG TO CAO AN CAP TAI SAN * TOI</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG TO CAO AN CAP TAI SAN * TOI *</pattern>
+   <template>
+      <srai>TOI KHONG TO CAO HANH VI ONG A AN CAP TAI SAN NGUOI KHAC THI TOI PHAM TOI GI KHONG</srai>
+   </template>
+</category>
+
+</aiml>

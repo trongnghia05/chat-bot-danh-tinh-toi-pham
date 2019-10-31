@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</pattern>
+   <template>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</template>
+</category>
+
+<category>
+   <pattern>CO SO SAN XUAT DAP UNG CAC YEU CAU BAO VE MOI TRUONG</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO SO SAN XUAT DAP UNG CAC YEU CAU BAO VE MOI TRUONG *</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO SO SAN XUAT DAP UNG CAC YEU CAU BAO VE MOI TRUONG</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO SO SAN XUAT DAP UNG CAC YEU CAU BAO VE MOI TRUONG *</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO SO SAN XUAT * DAP UNG CAC YEU CAU * BAO VE MOI TRUONG</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO SO SAN XUAT * DAP UNG CAC YEU CAU * BAO VE MOI TRUONG *</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO SO SAN XUAT * DAP UNG CAC YEU CAU * BAO VE MOI TRUONG</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO SO SAN XUAT * DAP UNG CAC YEU CAU * BAO VE MOI TRUONG *</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO SO SAN XUAT * DAP UNG CAC YEU CAU BAO VE MOI TRUONG</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO SO SAN XUAT * DAP UNG CAC YEU CAU BAO VE MOI TRUONG *</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO SO SAN XUAT * DAP UNG CAC YEU CAU BAO VE MOI TRUONG</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO SO SAN XUAT * DAP UNG CAC YEU CAU BAO VE MOI TRUONG *</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO SO SAN XUAT DAP UNG CAC YEU CAU * BAO VE MOI TRUONG</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO SO SAN XUAT DAP UNG CAC YEU CAU * BAO VE MOI TRUONG *</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO SO SAN XUAT DAP UNG CAC YEU CAU * BAO VE MOI TRUONG</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO SO SAN XUAT DAP UNG CAC YEU CAU * BAO VE MOI TRUONG *</pattern>
+   <template>
+      <srai>CO SO SAN XUAT KINH DOANH DICH VU PHAI DAP UNG CAC YEU CAU GI VE BAO VE MOI TRUONG</srai>
+   </template>
+</category>
+
+</aiml>

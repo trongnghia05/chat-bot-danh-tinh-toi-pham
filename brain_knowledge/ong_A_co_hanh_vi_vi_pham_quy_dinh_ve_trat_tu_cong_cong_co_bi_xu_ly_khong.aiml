@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</pattern>
+   <template>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</template>
+</category>
+
+<category>
+   <pattern>VI PHAM QUY DINH TRAT TU CONG CONG XU LY</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM QUY DINH TRAT TU CONG CONG XU LY *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM QUY DINH TRAT TU CONG CONG XU LY</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VI PHAM QUY DINH TRAT TU CONG CONG XU LY *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VI PHAM QUY DINH * TRAT TU CONG CONG * XU LY</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM QUY DINH * TRAT TU CONG CONG * XU LY *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM QUY DINH * TRAT TU CONG CONG * XU LY</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VI PHAM QUY DINH * TRAT TU CONG CONG * XU LY *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VI PHAM QUY DINH * TRAT TU CONG CONG XU LY</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM QUY DINH * TRAT TU CONG CONG XU LY *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM QUY DINH * TRAT TU CONG CONG XU LY</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VI PHAM QUY DINH * TRAT TU CONG CONG XU LY *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VI PHAM QUY DINH TRAT TU CONG CONG * XU LY</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM QUY DINH TRAT TU CONG CONG * XU LY *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VI PHAM QUY DINH TRAT TU CONG CONG * XU LY</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VI PHAM QUY DINH TRAT TU CONG CONG * XU LY *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI VI PHAM QUY DINH VE TRAT TU CONG CONG CO BI XU LY KHONG</srai>
+   </template>
+</category>
+
+</aiml>

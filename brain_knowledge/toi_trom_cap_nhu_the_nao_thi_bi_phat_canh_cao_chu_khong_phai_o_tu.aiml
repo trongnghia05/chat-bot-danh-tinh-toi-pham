@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</pattern>
+   <template>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</template>
+</category>
+
+<category>
+   <pattern>TROM CAP BI PHAT CANH CAO KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP BI PHAT CANH CAO KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP BI PHAT CANH CAO KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP BI PHAT CANH CAO KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP * BI PHAT CANH CAO * KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP * BI PHAT CANH CAO * KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP * BI PHAT CANH CAO * KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP * BI PHAT CANH CAO * KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP * BI PHAT CANH CAO KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP * BI PHAT CANH CAO KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP * BI PHAT CANH CAO KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP * BI PHAT CANH CAO KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP BI PHAT CANH CAO * KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP BI PHAT CANH CAO * KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP BI PHAT CANH CAO * KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP BI PHAT CANH CAO * KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP BI PHAT CANH CAO</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP BI PHAT CANH CAO *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP BI PHAT CANH CAO</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP BI PHAT CANH CAO *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP * BI PHAT CANH CAO</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP * BI PHAT CANH CAO *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP * BI PHAT CANH CAO</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP * BI PHAT CANH CAO *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP * KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP * KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TROM CAP * KHONG PHAI O TU</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TROM CAP * KHONG PHAI O TU *</pattern>
+   <template>
+      <srai>TOI TROM CAP NHU THE NAO THI BI PHAT CANH CAO CHU KHONG PHAI O TU</srai>
+   </template>
+</category>
+
+</aiml>

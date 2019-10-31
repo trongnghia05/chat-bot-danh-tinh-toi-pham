@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>VU KHONG DUOC THE HIEN QUA HANH VI NAO</pattern>
+   <template>VU KHONG DUOC THE HIEN QUA HANH VI NAO</template>
+</category>
+
+<category>
+   <pattern>VU KHONG THE HIEN</pattern>
+   <template>
+      <srai>VU KHONG DUOC THE HIEN QUA HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU KHONG THE HIEN *</pattern>
+   <template>
+      <srai>VU KHONG DUOC THE HIEN QUA HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU KHONG THE HIEN</pattern>
+   <template>
+      <srai>VU KHONG DUOC THE HIEN QUA HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU KHONG THE HIEN *</pattern>
+   <template>
+      <srai>VU KHONG DUOC THE HIEN QUA HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU KHONG * THE HIEN</pattern>
+   <template>
+      <srai>VU KHONG DUOC THE HIEN QUA HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU KHONG * THE HIEN *</pattern>
+   <template>
+      <srai>VU KHONG DUOC THE HIEN QUA HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU KHONG * THE HIEN</pattern>
+   <template>
+      <srai>VU KHONG DUOC THE HIEN QUA HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU KHONG * THE HIEN *</pattern>
+   <template>
+      <srai>VU KHONG DUOC THE HIEN QUA HANH VI NAO</srai>
+   </template>
+</category>
+
+</aiml>

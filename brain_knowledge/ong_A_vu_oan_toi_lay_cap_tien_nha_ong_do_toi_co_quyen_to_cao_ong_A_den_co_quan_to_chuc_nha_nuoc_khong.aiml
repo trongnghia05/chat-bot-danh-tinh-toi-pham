@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</pattern>
+   <template>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</template>
+</category>
+
+<category>
+   <pattern>VU OAN LAY CAP TIEN QUYEN TO CAO CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU OAN LAY CAP TIEN QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU OAN LAY CAP TIEN QUYEN TO CAO CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU OAN LAY CAP TIEN QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU OAN * LAY CAP TIEN * QUYEN TO CAO * CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU OAN * LAY CAP TIEN * QUYEN TO CAO * CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU OAN * LAY CAP TIEN * QUYEN TO CAO * CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU OAN * LAY CAP TIEN * QUYEN TO CAO * CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU OAN QUYEN TO CAO CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU OAN QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU OAN QUYEN TO CAO CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU OAN QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU OAN * QUYEN TO CAO * CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU OAN * QUYEN TO CAO * CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU OAN * QUYEN TO CAO * CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU OAN * QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU OAN * QUYEN TO CAO CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU OAN * QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* VU OAN * QUYEN TO CAO CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>VU OAN * QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY CAP TIEN QUYEN TO CAO CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY CAP TIEN QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY CAP TIEN QUYEN TO CAO CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY CAP TIEN QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY CAP TIEN * QUYEN TO CAO * CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY CAP TIEN * QUYEN TO CAO * CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY CAP TIEN * QUYEN TO CAO * CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY CAP TIEN * QUYEN TO CAO * CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY CAP TIEN * QUYEN TO CAO CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY CAP TIEN * QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY CAP TIEN * QUYEN TO CAO CO QUAN NHA NUOC</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY CAP TIEN * QUYEN TO CAO CO QUAN NHA NUOC *</pattern>
+   <template>
+      <srai>ONG A VU OAN TOI LAY CAP TIEN NHA ONG DO TOI CO QUYEN TO CAO ONG A DEN CO QUAN TO CHUC NHA NUOC KHONG</srai>
+   </template>
+</category>
+
+</aiml>

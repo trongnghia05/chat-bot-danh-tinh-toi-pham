@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</pattern>
+   <template>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</template>
+</category>
+
+<category>
+   <pattern>TO GIAC TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * TIN BAO * GIAI QUYET * KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * TIN BAO * GIAI QUYET * KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * TIN BAO * GIAI QUYET * KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * TIN BAO * GIAI QUYET * KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * TIN BAO * GIAI QUYET KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * TIN BAO * GIAI QUYET KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * TIN BAO * GIAI QUYET KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET * KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET * KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET * KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET * KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET * KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET * KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET * KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET * KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET * KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET * KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET * KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET * KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET * KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET * KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET * KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET * KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * GIAI QUYET CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * GIAI QUYET CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC GIAI QUYET * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC GIAI QUYET * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC * KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC * KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO GIAC KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO GIAC KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET * KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET * KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET * KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET * KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET * KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET * KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET * KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET * KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET * KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET * KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET * KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET * KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET * KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET * KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET * KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET * KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * GIAI QUYET CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * GIAI QUYET CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO GIAI QUYET * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO GIAI QUYET * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * KIEN NGHI CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * KIEN NGHI CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO * KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO * KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO KIEN NGHI CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO KIEN NGHI CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO KIEN NGHI * CO QUAN * NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO KIEN NGHI * CO QUAN * NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TIN BAO KIEN NGHI * CO QUAN NAO</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TIN BAO KIEN NGHI * CO QUAN NAO *</pattern>
+   <template>
+      <srai>THAM QUYEN GIAI QUYET TO GIAC TIN BAO VE TOI PHAM KIEN NGHI KHOI TO THUOC VE CO QUAN NAO</srai>
+   </template>
+</category>
+
+</aiml>

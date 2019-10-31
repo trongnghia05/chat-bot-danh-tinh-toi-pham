@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</pattern>
+   <template>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</template>
+</category>
+
+<category>
+   <pattern>CHONG NGOAI TINH YEU CAU TOA AN LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG NGOAI TINH YEU CAU TOA AN LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG NGOAI TINH YEU CAU TOA AN LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG NGOAI TINH YEU CAU TOA AN LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG * NGOAI TINH * YEU CAU TOA AN * LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG * NGOAI TINH * YEU CAU TOA AN * LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG * NGOAI TINH * YEU CAU TOA AN * LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG * NGOAI TINH * YEU CAU TOA AN * LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG * NGOAI TINH * YEU CAU TOA AN LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG * NGOAI TINH * YEU CAU TOA AN LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG * NGOAI TINH * YEU CAU TOA AN LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG * NGOAI TINH * YEU CAU TOA AN LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG * NGOAI TINH YEU CAU TOA AN * LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG * NGOAI TINH YEU CAU TOA AN * LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG * NGOAI TINH YEU CAU TOA AN * LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG * NGOAI TINH YEU CAU TOA AN * LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG NGOAI TINH * YEU CAU TOA AN * LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG NGOAI TINH * YEU CAU TOA AN * LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG NGOAI TINH * YEU CAU TOA AN * LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG NGOAI TINH * YEU CAU TOA AN * LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG NGOAI TINH * YEU CAU TOA AN LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG NGOAI TINH * YEU CAU TOA AN LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CHONG NGOAI TINH * YEU CAU TOA AN LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CHONG NGOAI TINH * YEU CAU TOA AN LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGOAI TINH YEU CAU TOA AN LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGOAI TINH YEU CAU TOA AN LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGOAI TINH YEU CAU TOA AN LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGOAI TINH YEU CAU TOA AN LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGOAI TINH * YEU CAU TOA AN * LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGOAI TINH * YEU CAU TOA AN * LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGOAI TINH * YEU CAU TOA AN * LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGOAI TINH * YEU CAU TOA AN * LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGOAI TINH * YEU CAU TOA AN LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGOAI TINH * YEU CAU TOA AN LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGOAI TINH * YEU CAU TOA AN LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGOAI TINH * YEU CAU TOA AN LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGOAI TINH YEU CAU TOA AN * LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGOAI TINH YEU CAU TOA AN * LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NGOAI TINH YEU CAU TOA AN * LY HON</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NGOAI TINH YEU CAU TOA AN * LY HON *</pattern>
+   <template>
+      <srai>TOI PHAT HIEN CHONG TOI NGOAI TINH TOI CO QUYEN YEU CAU TOA AN CHO TOI VA CHONG TOI LY HON HAY KHONG</srai>
+   </template>
+</category>
+
+</aiml>

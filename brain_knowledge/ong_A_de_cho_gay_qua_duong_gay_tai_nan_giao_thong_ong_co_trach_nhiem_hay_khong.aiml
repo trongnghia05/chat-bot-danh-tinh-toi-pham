@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CHO QUA DUONG</pattern>
+   <template>CHO QUA DUONG</template>
+</category>
+
+<category>
+   <pattern>TAI NAN GIAO THONG CO TRACH NHIEM HAY KHONG 18
+</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAI NAN GIAO THONG CO TRACH NHIEM HAY KHONG 18
+ *</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAI NAN GIAO THONG CO TRACH NHIEM HAY KHONG 18
+</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAI NAN GIAO THONG CO TRACH NHIEM HAY KHONG 18
+ *</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAI NAN GIAO THONG * CO TRACH NHIEM HAY KHONG * 18
+</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAI NAN GIAO THONG * CO TRACH NHIEM HAY KHONG * 18
+ *</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAI NAN GIAO THONG * CO TRACH NHIEM HAY KHONG * 18
+</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAI NAN GIAO THONG * CO TRACH NHIEM HAY KHONG * 18
+ *</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAI NAN GIAO THONG * CO TRACH NHIEM HAY KHONG 18
+</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAI NAN GIAO THONG * CO TRACH NHIEM HAY KHONG 18
+ *</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAI NAN GIAO THONG * CO TRACH NHIEM HAY KHONG 18
+</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAI NAN GIAO THONG * CO TRACH NHIEM HAY KHONG 18
+ *</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAI NAN GIAO THONG CO TRACH NHIEM HAY KHONG * 18
+</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAI NAN GIAO THONG CO TRACH NHIEM HAY KHONG * 18
+ *</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TAI NAN GIAO THONG CO TRACH NHIEM HAY KHONG * 18
+</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TAI NAN GIAO THONG CO TRACH NHIEM HAY KHONG * 18
+ *</pattern>
+   <template>
+      <srai>CHO QUA DUONG</srai>
+   </template>
+</category>
+
+</aiml>

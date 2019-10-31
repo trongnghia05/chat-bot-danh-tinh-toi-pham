@@ -1,0 +1,2141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</pattern>
+   <template>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * UY TIN BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * UY TIN BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU UY TIN BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU UY TIN BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * UY TIN BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * UY TIN BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM UY TIN BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM UY TIN BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* UY TIN BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>UY TIN BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * BI XAM PHAM GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * BI XAM PHAM GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM * BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM * BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM BI XAM PHAM * GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM BI XAM PHAM * GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM BI XAM PHAM GOM * NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM BI XAM PHAM GOM * NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* NHAN PHAM BI XAM PHAM * GOM NHUNG GI</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>NHAN PHAM BI XAM PHAM * GOM NHUNG GI *</pattern>
+   <template>
+      <srai>THIET HAI DO DANH DU NHAN PHAM UY TIN BI XAM PHAM BAO GOM NHUNG GI</srai>
+   </template>
+</category>
+
+</aiml>

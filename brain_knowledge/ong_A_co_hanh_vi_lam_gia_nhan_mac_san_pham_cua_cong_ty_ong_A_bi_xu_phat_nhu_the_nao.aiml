@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A CO HANH VI LAM GIA NHAN MAC SAN PHAM CUA CONG TY ONG A BI XU LY NHU THE NAO</pattern>
+   <template>ONG A CO HANH VI LAM GIA NHAN MAC SAN PHAM CUA CONG TY ONG A BI XU LY NHU THE NAO</template>
+</category>
+
+<category>
+   <pattern>GIA NHAN MAC XU PHAT</pattern>
+   <template>
+      <srai>ONG A CO HANH VI LAM GIA NHAN MAC SAN PHAM CUA CONG TY ONG A BI XU LY NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIA NHAN MAC XU PHAT *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI LAM GIA NHAN MAC SAN PHAM CUA CONG TY ONG A BI XU LY NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIA NHAN MAC XU PHAT</pattern>
+   <template>
+      <srai>ONG A CO HANH VI LAM GIA NHAN MAC SAN PHAM CUA CONG TY ONG A BI XU LY NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIA NHAN MAC XU PHAT *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI LAM GIA NHAN MAC SAN PHAM CUA CONG TY ONG A BI XU LY NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIA NHAN MAC * XU PHAT</pattern>
+   <template>
+      <srai>ONG A CO HANH VI LAM GIA NHAN MAC SAN PHAM CUA CONG TY ONG A BI XU LY NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIA NHAN MAC * XU PHAT *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI LAM GIA NHAN MAC SAN PHAM CUA CONG TY ONG A BI XU LY NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIA NHAN MAC * XU PHAT</pattern>
+   <template>
+      <srai>ONG A CO HANH VI LAM GIA NHAN MAC SAN PHAM CUA CONG TY ONG A BI XU LY NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIA NHAN MAC * XU PHAT *</pattern>
+   <template>
+      <srai>ONG A CO HANH VI LAM GIA NHAN MAC SAN PHAM CUA CONG TY ONG A BI XU LY NHU THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

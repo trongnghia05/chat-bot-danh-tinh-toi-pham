@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</pattern>
+   <template>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN YEU CAU BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN YEU CAU BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN YEU CAU BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN YEU CAU BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU * BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU * BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU * BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU * BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN YEU CAU * BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN YEU CAU * BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN YEU CAU * BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN YEU CAU * BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU * BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU * BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU * BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU * BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * BOI THUONG</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * BOI THUONG *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN YEU CAU</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN YEU CAU *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN YEU CAU</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN YEU CAU *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN * YEU CAU *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN YEU CAU</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN YEU CAU *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN YEU CAU</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG * GAY HAI DEN TAI SAN YEU CAU *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG GAY HAI DEN TAI SAN * YEU CAU *</pattern>
+   <template>
+      <srai>ONG A GAY O NHIEM MOI TRUONG LAM GAY HAI DEN TAI SAN NHA TOI TOI YEU CAU ONG A BOI THUONG DUOC KHONG</srai>
+   </template>
+</category>
+
+</aiml>

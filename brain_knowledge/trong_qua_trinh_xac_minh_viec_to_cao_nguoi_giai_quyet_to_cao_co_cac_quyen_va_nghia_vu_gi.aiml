@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</pattern>
+   <template>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET QUYEN NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET QUYEN NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET QUYEN NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET QUYEN NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN * NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN * NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN * NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN * NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET QUYEN * NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET QUYEN * NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET QUYEN * NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET QUYEN * NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN * NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN * NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN * NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN * NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET * NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET * NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET * NGHIA VU</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET * NGHIA VU *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET QUYEN</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET QUYEN *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET QUYEN</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET QUYEN *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET * QUYEN *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET QUYEN</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET QUYEN *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO * NGUOI GIAI QUYET QUYEN</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO * NGUOI GIAI QUYET QUYEN *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XAC MINH VIEC TO CAO NGUOI GIAI QUYET * QUYEN *</pattern>
+   <template>
+      <srai>TRONG QUA TRINH XAC MINH VIEC TO CAO NGUOI GIAI QUYET TO CAO CO CAC QUYEN VA NGHIA VU GI</srai>
+   </template>
+</category>
+
+</aiml>

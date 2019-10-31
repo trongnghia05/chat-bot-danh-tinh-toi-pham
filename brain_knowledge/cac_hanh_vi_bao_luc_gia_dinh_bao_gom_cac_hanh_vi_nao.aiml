@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>BAO LUC GIA DINH BAO GOM CAC HANH VI NAO</pattern>
+   <template>BAO LUC GIA DINH BAO GOM CAC HANH VI NAO</template>
+</category>
+
+<category>
+   <pattern>BAO LUC GIA DINH HANH VI</pattern>
+   <template>
+      <srai>BAO LUC GIA DINH BAO GOM CAC HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAO LUC GIA DINH HANH VI *</pattern>
+   <template>
+      <srai>BAO LUC GIA DINH BAO GOM CAC HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAO LUC GIA DINH HANH VI</pattern>
+   <template>
+      <srai>BAO LUC GIA DINH BAO GOM CAC HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAO LUC GIA DINH HANH VI *</pattern>
+   <template>
+      <srai>BAO LUC GIA DINH BAO GOM CAC HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAO LUC GIA DINH * HANH VI</pattern>
+   <template>
+      <srai>BAO LUC GIA DINH BAO GOM CAC HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAO LUC GIA DINH * HANH VI *</pattern>
+   <template>
+      <srai>BAO LUC GIA DINH BAO GOM CAC HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BAO LUC GIA DINH * HANH VI</pattern>
+   <template>
+      <srai>BAO LUC GIA DINH BAO GOM CAC HANH VI NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BAO LUC GIA DINH * HANH VI *</pattern>
+   <template>
+      <srai>BAO LUC GIA DINH BAO GOM CAC HANH VI NAO</srai>
+   </template>
+</category>
+
+</aiml>

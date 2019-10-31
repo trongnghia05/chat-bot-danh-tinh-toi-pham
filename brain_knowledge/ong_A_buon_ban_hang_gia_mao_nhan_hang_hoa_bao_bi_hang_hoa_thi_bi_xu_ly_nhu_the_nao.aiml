@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</pattern>
+   <template>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO * NHAN HANG HOA * BAO BI * XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO * NHAN HANG HOA * BAO BI * XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO * NHAN HANG HOA * BAO BI * XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO * NHAN HANG HOA * BAO BI * XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO * NHAN HANG HOA BAO BI XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO * NHAN HANG HOA BAO BI XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO * NHAN HANG HOA BAO BI * XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO * NHAN HANG HOA BAO BI * XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO NHAN HANG HOA XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO NHAN HANG HOA XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO NHAN HANG HOA XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO NHAN HANG HOA XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO * NHAN HANG HOA * XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO * NHAN HANG HOA * XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO * NHAN HANG HOA * XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO * NHAN HANG HOA * XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO BAO BI XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO BAO BI XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO BAO BI XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO BAO BI XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO * BAO BI * XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO * BAO BI * XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* BUON BAN HANG GIA MAO * BAO BI * XU LY</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>BUON BAN HANG GIA MAO * BAO BI * XU LY *</pattern>
+   <template>
+      <srai>ONG A BUON BAN HANG GIA MAO NHAN HANG HOA BAO BI HANG HOA THI BI XU LY THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

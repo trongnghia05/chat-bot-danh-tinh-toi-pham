@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</pattern>
+   <template>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</template>
+</category>
+
+<category>
+   <pattern>CON DAU XUC PHAM KHONG CHO CHAM CHAU BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU XUC PHAM KHONG CHO CHAM CHAU BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU XUC PHAM KHONG CHO CHAM CHAU BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU XUC PHAM KHONG CHO CHAM CHAU BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU * XUC PHAM * KHONG CHO CHAM CHAU * BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU * XUC PHAM * KHONG CHO CHAM CHAU * BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU * XUC PHAM * KHONG CHO CHAM CHAU * BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU * XUC PHAM * KHONG CHO CHAM CHAU * BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU * XUC PHAM KHONG CHO CHAM CHAU BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU * XUC PHAM KHONG CHO CHAM CHAU BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU * XUC PHAM KHONG CHO CHAM CHAU * BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU * XUC PHAM KHONG CHO CHAM CHAU * BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU XUC PHAM BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU XUC PHAM BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU XUC PHAM BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU XUC PHAM BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU * XUC PHAM * BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU * XUC PHAM * BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU * XUC PHAM * BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU * XUC PHAM * BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU KHONG CHO CHAM CHAU BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU KHONG CHO CHAM CHAU BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU KHONG CHO CHAM CHAU BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU KHONG CHO CHAM CHAU BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU * KHONG CHO CHAM CHAU * BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU * KHONG CHO CHAM CHAU * BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CON DAU * KHONG CHO CHAM CHAU * BAO LUC GIA DINH</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CON DAU * KHONG CHO CHAM CHAU * BAO LUC GIA DINH *</pattern>
+   <template>
+      <srai>CHO TOI HOI CON DAU TOI CO HANH VI XUC PHAM VA KHONG CHO TOI CHAM CHAU CUA TOI DO CO PHAI HANH VI BAO LUC GIA DINH KHONG</srai>
+   </template>
+</category>
+
+</aiml>

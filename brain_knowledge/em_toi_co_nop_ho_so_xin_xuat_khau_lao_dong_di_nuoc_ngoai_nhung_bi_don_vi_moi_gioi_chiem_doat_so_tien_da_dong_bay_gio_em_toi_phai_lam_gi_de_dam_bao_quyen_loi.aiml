@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</pattern>
+   <template>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG MOI GIOI CHIEM DOAT SO TIEN DA DONG LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG MOI GIOI CHIEM DOAT SO TIEN DA DONG LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG MOI GIOI CHIEM DOAT SO TIEN DA DONG LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG MOI GIOI CHIEM DOAT SO TIEN DA DONG LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG * MOI GIOI * CHIEM DOAT SO TIEN DA DONG * LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG * MOI GIOI * CHIEM DOAT SO TIEN DA DONG * LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG * MOI GIOI * CHIEM DOAT SO TIEN DA DONG * LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG * MOI GIOI * CHIEM DOAT SO TIEN DA DONG * LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG * MOI GIOI CHIEM DOAT SO TIEN DA DONG LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG * MOI GIOI CHIEM DOAT SO TIEN DA DONG LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG * MOI GIOI CHIEM DOAT SO TIEN DA DONG * LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG * MOI GIOI CHIEM DOAT SO TIEN DA DONG * LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG MOI GIOI LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG MOI GIOI LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG MOI GIOI LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG MOI GIOI LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG * MOI GIOI * LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG * MOI GIOI * LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG * MOI GIOI * LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG * MOI GIOI * LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG CHIEM DOAT SO TIEN DA DONG LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG CHIEM DOAT SO TIEN DA DONG LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG CHIEM DOAT SO TIEN DA DONG LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG CHIEM DOAT SO TIEN DA DONG LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG * CHIEM DOAT SO TIEN DA DONG * LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG * CHIEM DOAT SO TIEN DA DONG * LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* HO SO XUAT KHAU LAO DONG * CHIEM DOAT SO TIEN DA DONG * LAM GI</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>HO SO XUAT KHAU LAO DONG * CHIEM DOAT SO TIEN DA DONG * LAM GI *</pattern>
+   <template>
+      <srai>EM TOI CO NOP HO SO XIN XUAT KHAU DI NUOC NGOAI NHUNG BI DON VI MOI GIOI CHIEM DOAT SO TIEN DA DONG BAY GIO EM TOI PHAO LAM GI DE DAM BAO QUYEN LOI</srai>
+   </template>
+</category>
+
+</aiml>

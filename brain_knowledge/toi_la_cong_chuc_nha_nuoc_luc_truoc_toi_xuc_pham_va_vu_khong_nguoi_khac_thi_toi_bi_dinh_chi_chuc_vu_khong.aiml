@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</pattern>
+   <template>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM NHAN PHAM DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM NHAN PHAM DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM NHAN PHAM DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM NHAN PHAM DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM * DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM * DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM * DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM * DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM NHAN PHAM DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM NHAN PHAM DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM NHAN PHAM DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM NHAN PHAM DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM NHAN PHAM DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM * NHAN PHAM DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM NHAN PHAM * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM NHAN PHAM * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM NHAN PHAM * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM NHAN PHAM * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM * NHAN PHAM * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM * NHAN PHAM * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM * NHAN PHAM * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM * NHAN PHAM * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM * NHAN PHAM DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM * NHAN PHAM DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM * NHAN PHAM DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM * NHAN PHAM DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM * DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM * DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM * DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM * DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM * DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM * DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM * DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM * DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC * XUC PHAM DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC * XUC PHAM DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM * DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM * DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM * DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM * DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM * DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM * DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CONG CHUC NHA NUOC XUC PHAM * DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CONG CHUC NHA NUOC XUC PHAM * DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM * DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM * DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM * DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM * DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM * DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM * DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM * DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM * DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * NHAN PHAM DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * NHAN PHAM DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM * DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM * DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM * DANH DU * DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM * DANH DU * DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM * DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM * DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM NHAN PHAM * DANH DU DINH CHI</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM NHAN PHAM * DANH DU DINH CHI *</pattern>
+   <template>
+      <srai>TOI LA CONG CHUC NHA NUOC LUC TRUOC TOI XUC PHAM VA VU KHONG NGUOI KHAC THI TOI BI DINH CHI CHUC VU KHONG</srai>
+   </template>
+</category>
+
+</aiml>

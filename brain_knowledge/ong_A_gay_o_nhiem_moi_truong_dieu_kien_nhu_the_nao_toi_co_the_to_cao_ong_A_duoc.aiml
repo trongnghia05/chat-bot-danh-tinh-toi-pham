@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>GAY O NHIEM MOI TRUONG</pattern>
+   <template>GAY O NHIEM MOI TRUONG</template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN TO CAO 18
+</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN TO CAO 18
+ *</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN TO CAO 18
+</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN TO CAO 18
+ *</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * TO CAO * 18
+</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * TO CAO * 18
+ *</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * TO CAO * 18
+</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * TO CAO * 18
+ *</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * TO CAO 18
+</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * TO CAO 18
+ *</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN * TO CAO 18
+</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN * TO CAO 18
+ *</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN TO CAO * 18
+</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN TO CAO * 18
+ *</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DIEU KIEN TO CAO * 18
+</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DIEU KIEN TO CAO * 18
+ *</pattern>
+   <template>
+      <srai>GAY O NHIEM MOI TRUONG</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI THAY NGUOI A LAY CAP CUA CONG NHA NUOC TOI CO DUOC TO CAO NGUOI DO KHONG</pattern>
+   <template>TOI THAY NGUOI A LAY CAP CUA CONG NHA NUOC TOI CO DUOC TO CAO NGUOI DO KHONG</template>
+</category>
+
+<category>
+   <pattern>LAY CAP CUA CONG NHA NUOC TO CAO</pattern>
+   <template>
+      <srai>TOI THAY NGUOI A LAY CAP CUA CONG NHA NUOC TOI CO DUOC TO CAO NGUOI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY CAP CUA CONG NHA NUOC TO CAO *</pattern>
+   <template>
+      <srai>TOI THAY NGUOI A LAY CAP CUA CONG NHA NUOC TOI CO DUOC TO CAO NGUOI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY CAP CUA CONG NHA NUOC TO CAO</pattern>
+   <template>
+      <srai>TOI THAY NGUOI A LAY CAP CUA CONG NHA NUOC TOI CO DUOC TO CAO NGUOI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY CAP CUA CONG NHA NUOC TO CAO *</pattern>
+   <template>
+      <srai>TOI THAY NGUOI A LAY CAP CUA CONG NHA NUOC TOI CO DUOC TO CAO NGUOI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY CAP CUA CONG NHA NUOC * TO CAO</pattern>
+   <template>
+      <srai>TOI THAY NGUOI A LAY CAP CUA CONG NHA NUOC TOI CO DUOC TO CAO NGUOI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY CAP CUA CONG NHA NUOC * TO CAO *</pattern>
+   <template>
+      <srai>TOI THAY NGUOI A LAY CAP CUA CONG NHA NUOC TOI CO DUOC TO CAO NGUOI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LAY CAP CUA CONG NHA NUOC * TO CAO</pattern>
+   <template>
+      <srai>TOI THAY NGUOI A LAY CAP CUA CONG NHA NUOC TOI CO DUOC TO CAO NGUOI DO KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LAY CAP CUA CONG NHA NUOC * TO CAO *</pattern>
+   <template>
+      <srai>TOI THAY NGUOI A LAY CAP CUA CONG NHA NUOC TOI CO DUOC TO CAO NGUOI DO KHONG</srai>
+   </template>
+</category>
+
+</aiml>

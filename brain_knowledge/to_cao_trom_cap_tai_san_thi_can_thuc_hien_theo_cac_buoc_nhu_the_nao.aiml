@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</pattern>
+   <template>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</template>
+</category>
+
+<category>
+   <pattern>TO CAO TROM CAP TAI SAN CAC BUOC</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO TROM CAP TAI SAN CAC BUOC *</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO TROM CAP TAI SAN CAC BUOC</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO TROM CAP TAI SAN CAC BUOC *</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * TROM CAP TAI SAN * CAC BUOC</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * TROM CAP TAI SAN * CAC BUOC *</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * TROM CAP TAI SAN * CAC BUOC</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * TROM CAP TAI SAN * CAC BUOC *</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * TROM CAP TAI SAN CAC BUOC</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * TROM CAP TAI SAN CAC BUOC *</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * TROM CAP TAI SAN CAC BUOC</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * TROM CAP TAI SAN CAC BUOC *</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO TROM CAP TAI SAN * CAC BUOC</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO TROM CAP TAI SAN * CAC BUOC *</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO TROM CAP TAI SAN * CAC BUOC</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO TROM CAP TAI SAN * CAC BUOC *</pattern>
+   <template>
+      <srai>TO CAO TROM CAP TAI SAN THI CAN THUC HIEN THEO CAC BUOC NHU THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

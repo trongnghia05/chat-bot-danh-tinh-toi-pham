@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</pattern>
+   <template>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</template>
+</category>
+
+<category>
+   <pattern>THUE NHA DAT COC KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA DAT COC KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA DAT COC KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA DAT COC KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA DAT COC KHONG GIONG TRONG HINH TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA DAT COC KHONG GIONG TRONG HINH TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA DAT COC KHONG GIONG TRONG HINH TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA DAT COC KHONG GIONG TRONG HINH TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * DAT COC * KHONG GIONG TRONG HINH * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * DAT COC * KHONG GIONG TRONG HINH * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * DAT COC * KHONG GIONG TRONG HINH * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * DAT COC * KHONG GIONG TRONG HINH * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * DAT COC * KHONG GIONG TRONG HINH TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * DAT COC * KHONG GIONG TRONG HINH TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * DAT COC * KHONG GIONG TRONG HINH TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * DAT COC * KHONG GIONG TRONG HINH TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * DAT COC KHONG GIONG TRONG HINH * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * DAT COC KHONG GIONG TRONG HINH * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * DAT COC KHONG GIONG TRONG HINH * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * DAT COC KHONG GIONG TRONG HINH * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA DAT COC * KHONG GIONG TRONG HINH * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA DAT COC * KHONG GIONG TRONG HINH * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA DAT COC * KHONG GIONG TRONG HINH * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA DAT COC * KHONG GIONG TRONG HINH * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA DAT COC * KHONG GIONG TRONG HINH TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA DAT COC * KHONG GIONG TRONG HINH TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA DAT COC * KHONG GIONG TRONG HINH TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA DAT COC * KHONG GIONG TRONG HINH TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA * KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA * KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THUE NHA KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THUE NHA KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC * KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC * KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC * KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC * KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC * KHONG GIONG TRONG HINH CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET * TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DAT COC KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DAT COC KHONG GIONG TRONG HINH * CHAT LUONG NHU CAM KET TO CAO *</pattern>
+   <template>
+      <srai>TOI THUE NHA VA DA DAT COC NHUNG KHI DEN NOI THI KHONG GIONG NHU TRONG HINH VA CHAT LUONG NHU CAM KET TOI TO CAO SU VIEC NAY O DAU</srai>
+   </template>
+</category>
+
+</aiml>

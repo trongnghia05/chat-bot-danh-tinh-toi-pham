@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</pattern>
+   <template>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</template>
+</category>
+
+<category>
+   <pattern>XU LY HANH VI O NHIEM MOI TRUONG</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY HANH VI O NHIEM MOI TRUONG *</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY HANH VI O NHIEM MOI TRUONG</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY HANH VI O NHIEM MOI TRUONG *</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY * HANH VI * O NHIEM MOI TRUONG</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY * HANH VI * O NHIEM MOI TRUONG *</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY * HANH VI * O NHIEM MOI TRUONG</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY * HANH VI * O NHIEM MOI TRUONG *</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY * HANH VI O NHIEM MOI TRUONG</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY * HANH VI O NHIEM MOI TRUONG *</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY * HANH VI O NHIEM MOI TRUONG</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY * HANH VI O NHIEM MOI TRUONG *</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY HANH VI * O NHIEM MOI TRUONG</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY HANH VI * O NHIEM MOI TRUONG *</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XU LY HANH VI * O NHIEM MOI TRUONG</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XU LY HANH VI * O NHIEM MOI TRUONG *</pattern>
+   <template>
+      <srai>XU LY HANH VI GAY O NHIEM MOI TRUONG NHU THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

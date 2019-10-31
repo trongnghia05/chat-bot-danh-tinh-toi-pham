@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</pattern>
+   <template>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</template>
+</category>
+
+<category>
+   <pattern>MANG XA HOI HANH VI XUC PHAM UY TIN TO CHUC XU LI</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG XA HOI HANH VI XUC PHAM UY TIN TO CHUC XU LI *</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG XA HOI HANH VI XUC PHAM UY TIN TO CHUC XU LI</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG XA HOI HANH VI XUC PHAM UY TIN TO CHUC XU LI *</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG XA HOI * HANH VI XUC PHAM UY TIN TO CHUC * XU LI</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG XA HOI * HANH VI XUC PHAM UY TIN TO CHUC * XU LI *</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG XA HOI * HANH VI XUC PHAM UY TIN TO CHUC * XU LI</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG XA HOI * HANH VI XUC PHAM UY TIN TO CHUC * XU LI *</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG XA HOI * HANH VI XUC PHAM UY TIN TO CHUC XU LI</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG XA HOI * HANH VI XUC PHAM UY TIN TO CHUC XU LI *</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG XA HOI * HANH VI XUC PHAM UY TIN TO CHUC XU LI</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG XA HOI * HANH VI XUC PHAM UY TIN TO CHUC XU LI *</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG XA HOI HANH VI XUC PHAM UY TIN TO CHUC * XU LI</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG XA HOI HANH VI XUC PHAM UY TIN TO CHUC * XU LI *</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* MANG XA HOI HANH VI XUC PHAM UY TIN TO CHUC * XU LI</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>MANG XA HOI HANH VI XUC PHAM UY TIN TO CHUC * XU LI *</pattern>
+   <template>
+      <srai>ONG A LEN MANG XA HOI CO HANH VI XUC PHAM UY TIN CUA TO CHUC A ONG A BI XU LI THE NAO</srai>
+   </template>
+</category>
+
+</aiml>

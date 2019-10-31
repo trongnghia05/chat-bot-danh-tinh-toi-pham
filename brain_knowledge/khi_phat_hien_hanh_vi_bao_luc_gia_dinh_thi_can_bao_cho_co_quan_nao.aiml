@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</pattern>
+   <template>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN BAO LUC GIA DINH BAO</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN BAO LUC GIA DINH BAO *</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN BAO LUC GIA DINH BAO</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN BAO LUC GIA DINH BAO *</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN * BAO LUC GIA DINH * BAO</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN * BAO LUC GIA DINH * BAO *</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN * BAO LUC GIA DINH * BAO</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN * BAO LUC GIA DINH * BAO *</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN * BAO LUC GIA DINH BAO</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN * BAO LUC GIA DINH BAO *</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN * BAO LUC GIA DINH BAO</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN * BAO LUC GIA DINH BAO *</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN BAO LUC GIA DINH * BAO</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN BAO LUC GIA DINH * BAO *</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* PHAT HIEN BAO LUC GIA DINH * BAO</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>PHAT HIEN BAO LUC GIA DINH * BAO *</pattern>
+   <template>
+      <srai>KHI PHAT HIEN HANH VI BAO LUC GIA DINH THI CAN BAO CHO CO QUAN NAO</srai>
+   </template>
+</category>
+
+</aiml>

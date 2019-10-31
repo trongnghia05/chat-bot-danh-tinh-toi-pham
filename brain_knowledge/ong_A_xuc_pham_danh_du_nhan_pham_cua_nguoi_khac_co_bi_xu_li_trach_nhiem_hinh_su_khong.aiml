@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</pattern>
+   <template>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU NHAN PHAM NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU NHAN PHAM NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU NHAN PHAM NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU NHAN PHAM TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU NHAN PHAM TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU NHAN PHAM TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU NHAN PHAM TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU NHAN PHAM TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * NHAN PHAM * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * NHAN PHAM * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * NHAN PHAM * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * NHAN PHAM * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * NHAN PHAM TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * NHAN PHAM TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * NHAN PHAM TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * NHAN PHAM TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU NHAN PHAM * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU NHAN PHAM * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU NHAN PHAM * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU NHAN PHAM * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU * NHAN PHAM * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU * NHAN PHAM * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU * NHAN PHAM * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU * NHAN PHAM * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU * NHAN PHAM TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU * NHAN PHAM TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU * NHAN PHAM TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU * NHAN PHAM TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU * NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU * NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * DANH DU NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * DANH DU NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU * NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU * NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU * NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU * NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU * NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU * NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM DANH DU * NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM DANH DU * NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM * NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM * NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU * NHAN PHAM NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU * NHAN PHAM NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM * NGUOI KHAC * TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM * NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM * NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* DANH DU NHAN PHAM * NGUOI KHAC TRACH NHIEM HINH SU</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>DANH DU NHAN PHAM * NGUOI KHAC TRACH NHIEM HINH SU *</pattern>
+   <template>
+      <srai>ONG A XUC PHAM DANH DU NHAN PHAM CUA NGUOI KHAC CO BI XU LI TRACH NHIEM HINH SU KHONG</srai>
+   </template>
+</category>
+
+</aiml>

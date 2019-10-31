@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>CHONG</pattern>
+   <template>CHONG</template>
+</category>
+
+<category>
+   <pattern>XUC PHAM LANG MA BAO LUC GIA DINH 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM LANG MA BAO LUC GIA DINH 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM LANG MA BAO LUC GIA DINH 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM LANG MA BAO LUC GIA DINH 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * LANG MA * BAO LUC GIA DINH * 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * LANG MA * BAO LUC GIA DINH * 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * LANG MA * BAO LUC GIA DINH * 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * LANG MA * BAO LUC GIA DINH * 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * LANG MA BAO LUC GIA DINH 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * LANG MA BAO LUC GIA DINH 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * LANG MA BAO LUC GIA DINH * 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * LANG MA BAO LUC GIA DINH * 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM LANG MA 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM LANG MA 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM LANG MA 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM LANG MA 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * LANG MA * 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * LANG MA * 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * LANG MA * 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * LANG MA * 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM BAO LUC GIA DINH 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM BAO LUC GIA DINH 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM BAO LUC GIA DINH 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM BAO LUC GIA DINH 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * BAO LUC GIA DINH * 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * BAO LUC GIA DINH * 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* XUC PHAM * BAO LUC GIA DINH * 11
+</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>XUC PHAM * BAO LUC GIA DINH * 11
+ *</pattern>
+   <template>
+      <srai>CHONG</srai>
+   </template>
+</category>
+
+</aiml>

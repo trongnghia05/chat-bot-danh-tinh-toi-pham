@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</pattern>
+   <template>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU GHI AM TO GIAC CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU GHI AM TO GIAC CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU GHI AM TO GIAC CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU GHI AM TO GIAC CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU * GHI AM * TO GIAC * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU * GHI AM * TO GIAC * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU * GHI AM * TO GIAC * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU * GHI AM * TO GIAC * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU * GHI AM * TO GIAC CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU * GHI AM * TO GIAC CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU * GHI AM * TO GIAC CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU * GHI AM * TO GIAC CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU * GHI AM TO GIAC * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU * GHI AM TO GIAC * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU * GHI AM TO GIAC * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU * GHI AM TO GIAC * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU GHI AM * TO GIAC * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU GHI AM * TO GIAC * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU GHI AM * TO GIAC * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU GHI AM * TO GIAC * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU GHI AM * TO GIAC CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU GHI AM * TO GIAC CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU GHI AM * TO GIAC CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU GHI AM * TO GIAC CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU GHI AM CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU GHI AM CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU GHI AM CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU GHI AM CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU * GHI AM * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU * GHI AM * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU * GHI AM * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU * GHI AM * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU * GHI AM CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU * GHI AM CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU * GHI AM CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU * GHI AM CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU GHI AM * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU GHI AM * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* KHONG BIET CHU GHI AM * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>KHONG BIET CHU GHI AM * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GHI AM TO GIAC CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GHI AM TO GIAC CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GHI AM TO GIAC CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GHI AM TO GIAC CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GHI AM * TO GIAC * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GHI AM * TO GIAC * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GHI AM * TO GIAC * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GHI AM * TO GIAC * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GHI AM * TO GIAC CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GHI AM * TO GIAC CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GHI AM * TO GIAC CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GHI AM * TO GIAC CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GHI AM TO GIAC * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GHI AM TO GIAC * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GHI AM TO GIAC * CHIEM DOAT TAI SAN</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GHI AM TO GIAC * CHIEM DOAT TAI SAN *</pattern>
+   <template>
+      <srai>TOI KHONG BIET CHU TOI CO THE GHI AM TO GIAC NGUOI KHAC CO HANH VI LUA DAO CHIEM DOAT TAI SAN DUOC KHONG</srai>
+   </template>
+</category>
+
+</aiml>

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</pattern>
+   <template>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON HOA GIAI KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON HOA GIAI KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON HOA GIAI KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON HOA GIAI KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON * HOA GIAI * KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON * HOA GIAI * KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON * HOA GIAI * KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON * HOA GIAI * KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON * HOA GIAI KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON * HOA GIAI KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON * HOA GIAI KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON * HOA GIAI KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON HOA GIAI * KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON HOA GIAI * KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON HOA GIAI * KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON HOA GIAI * KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON * HOA GIAI * KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON * HOA GIAI * KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON * HOA GIAI * KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON * HOA GIAI * KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON * HOA GIAI KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON * HOA GIAI KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON * HOA GIAI KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON * HOA GIAI KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON * KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON * KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON * KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON * KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON * KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON * KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON * KHUYEN</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON * KHUYEN *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON HOA GIAI</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON HOA GIAI *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON HOA GIAI</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON HOA GIAI *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON * HOA GIAI</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON * HOA GIAI *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON * HOA GIAI</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON * HOA GIAI *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON HOA GIAI</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON HOA GIAI *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON * RUT LAI DON HOA GIAI</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON * RUT LAI DON HOA GIAI *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON * HOA GIAI</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON * HOA GIAI *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* LY HON RUT LAI DON * HOA GIAI</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>LY HON RUT LAI DON * HOA GIAI *</pattern>
+   <template>
+      <srai>VO TOI MUON LY HON VOI TOI TOI CO THE NHO CO QUAN NAO DE HOA GIAI VA KHUYEN VO TOI RUT LAI DON LY HON</srai>
+   </template>
+</category>
+
+</aiml>

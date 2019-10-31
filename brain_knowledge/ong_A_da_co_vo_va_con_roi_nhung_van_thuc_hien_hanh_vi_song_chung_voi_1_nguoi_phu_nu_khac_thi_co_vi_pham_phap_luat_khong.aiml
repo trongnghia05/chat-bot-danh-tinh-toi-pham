@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</pattern>
+   <template>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</template>
+</category>
+
+<category>
+   <pattern>CO VO VA CON SONG CHUNG VOI NGUOI PHU NU KHAC VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO VO VA CON SONG CHUNG VOI NGUOI PHU NU KHAC VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO VO VA CON SONG CHUNG VOI NGUOI PHU NU KHAC VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO VO VA CON SONG CHUNG VOI NGUOI PHU NU KHAC VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO VO VA CON * SONG CHUNG VOI NGUOI PHU NU KHAC * VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO VO VA CON * SONG CHUNG VOI NGUOI PHU NU KHAC * VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO VO VA CON * SONG CHUNG VOI NGUOI PHU NU KHAC * VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO VO VA CON * SONG CHUNG VOI NGUOI PHU NU KHAC * VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO VO VA CON * SONG CHUNG VOI NGUOI PHU NU KHAC VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO VO VA CON * SONG CHUNG VOI NGUOI PHU NU KHAC VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO VO VA CON * SONG CHUNG VOI NGUOI PHU NU KHAC VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO VO VA CON * SONG CHUNG VOI NGUOI PHU NU KHAC VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO VO VA CON SONG CHUNG VOI NGUOI PHU NU KHAC * VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO VO VA CON SONG CHUNG VOI NGUOI PHU NU KHAC * VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO VO VA CON SONG CHUNG VOI NGUOI PHU NU KHAC * VI PHAM PHAP LUAT</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO VO VA CON SONG CHUNG VOI NGUOI PHU NU KHAC * VI PHAM PHAP LUAT *</pattern>
+   <template>
+      <srai>ONG A DA CO VO VA CON ROI NHUNG VAN THUC HIEN HANH VI SONG CHUNG VOI 1 NGUOI PHU NU KHAC THI CO VI PHAM PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+</aiml>
