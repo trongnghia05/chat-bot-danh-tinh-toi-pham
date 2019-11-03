@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</pattern>
+   <template>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</template>
+</category>
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC TIN BAO TOI PHAM CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN GIAI QUYET TO GIAC TIN BAO TOI PHAM CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN GIAI QUYET TO GIAC TIN BAO TOI PHAM CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC TIN BAO TOI PHAM CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN * GIAI QUYET TO GIAC TIN BAO TOI PHAM * CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN * GIAI QUYET TO GIAC TIN BAO TOI PHAM * CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN * GIAI QUYET TO GIAC TIN BAO TOI PHAM * CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN * GIAI QUYET TO GIAC TIN BAO TOI PHAM * CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO GIAC TIN BAO TOI PHAM CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO GIAC TIN BAO TOI PHAM CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO GIAC TIN BAO TOI PHAM CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO GIAC TIN BAO TOI PHAM CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO GIAC * TIN BAO TOI PHAM * CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO GIAC * TIN BAO TOI PHAM CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO GIAC TIN BAO TOI PHAM * CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO GIAC TIN BAO TOI PHAM * CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* GIAI QUYET TO GIAC TIN BAO TOI PHAM * CO QUAN DIEU TRA</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>GIAI QUYET TO GIAC TIN BAO TOI PHAM * CO QUAN DIEU TRA *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC TIN BAO TOI PHAM</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN GIAI QUYET TO GIAC TIN BAO TOI PHAM *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN GIAI QUYET TO GIAC TIN BAO TOI PHAM</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC TIN BAO TOI PHAM *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN * GIAI QUYET TO GIAC * TIN BAO TOI PHAM *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN * GIAI QUYET TO GIAC TIN BAO TOI PHAM</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN * GIAI QUYET TO GIAC TIN BAO TOI PHAM *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN * GIAI QUYET TO GIAC TIN BAO TOI PHAM</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN * GIAI QUYET TO GIAC TIN BAO TOI PHAM *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>THOI GIAN GIAI QUYET TO GIAC * TIN BAO TOI PHAM *</pattern>
+   <template>
+      <srai>THOI GIAN GIAI QUYET TO GIAC VA TIN BAO VE TOI PHAM CUA CO QUAN DIEU TRA LA BAO NHIEU NGAY</srai>
+   </template>
+</category>
+
+</aiml>

@@ -147,7 +147,10 @@
             <learn>brain_knowledge/toi_cho_ong_A_vay_tien_co_giay_xac_nhan_ro_rang_nhung_den_han_lai_khong_tra_thi_toi_to_giac_nguoi_do_o_dau.aiml</learn>
             <learn>brain_knowledge/ong_A_vay_tien_toi_co_giay_xac_nhan_nhung_den_han_khong_tra_thi_bi_xu_ly_the_nao.aiml</learn>
             <learn>brain_knowledge/ong_A_vay_tien_khong_tra_thi_bi_ket_toi_gi.aiml</learn>
-
+            <learn>brain_knowledge/thoi_gian_giai_quyet_to_giac_va_tin_bao_ve_toi_pham_cua_co_quan_dieu_tra_la_bao_nhieu_ngay.aiml</learn>
+            <learn>brain_knowledge/toi_co_tinh_vu_khong_va_to_cao_anh_A_co_hanh_vi_muon_tien_khong_tra_toi_co_bi_xu_ly_phap_luat_khong.aiml</learn>
+            <learn>brain_knowledge/bi_lua_dao_khi_mua_hang_qua_mang_thi_trinh_bao_o_dau.aiml</learn>
+            <learn>brain_knowledge/toi_don_phuong_ly_hon_voi_chong_toi_toi_nop_don_ly_hon_o_dau.aiml</learn>
         </template>
     </category>
 </aiml>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+meta name="language" content="vi"/>
+<!-- srai: using for reuse template of pattern and template -->
+<!-- noi tam tru -->
+
+
+<category>
+   <pattern>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</pattern>
+   <template>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</template>
+</category>
+
+<category>
+   <pattern>CO TINH VU KHONG TO CAO MUON TIEN KHONG TRA XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO TINH VU KHONG TO CAO MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO TINH VU KHONG TO CAO MUON TIEN KHONG TRA XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO TINH VU KHONG TO CAO MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO TINH VU KHONG * TO CAO * MUON TIEN KHONG TRA * XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO TINH VU KHONG * TO CAO * MUON TIEN KHONG TRA * XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO TINH VU KHONG * TO CAO * MUON TIEN KHONG TRA * XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO TINH VU KHONG * TO CAO * MUON TIEN KHONG TRA * XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO TINH VU KHONG MUON TIEN KHONG TRA XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO TINH VU KHONG MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO TINH VU KHONG MUON TIEN KHONG TRA XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO TINH VU KHONG MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO TINH VU KHONG * MUON TIEN KHONG TRA * XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO TINH VU KHONG * MUON TIEN KHONG TRA * XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO TINH VU KHONG * MUON TIEN KHONG TRA * XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO TINH VU KHONG * MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO TINH VU KHONG * MUON TIEN KHONG TRA XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO TINH VU KHONG * MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* CO TINH VU KHONG * MUON TIEN KHONG TRA XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>CO TINH VU KHONG * MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO MUON TIEN KHONG TRA XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO MUON TIEN KHONG TRA XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * MUON TIEN KHONG TRA * XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * MUON TIEN KHONG TRA * XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * MUON TIEN KHONG TRA * XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * MUON TIEN KHONG TRA * XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * MUON TIEN KHONG TRA XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>* TO CAO * MUON TIEN KHONG TRA XU LY PHAP LUAT</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+<category>
+   <pattern>TO CAO * MUON TIEN KHONG TRA XU LY PHAP LUAT *</pattern>
+   <template>
+      <srai>TOI CO TINH VU KHONG VA TO CAO ANH A CO HANH VI MUON TIEN KHONG TRA TOI CO BI XU LY PHAP LUAT KHONG</srai>
+   </template>
+</category>
+
+</aiml>
